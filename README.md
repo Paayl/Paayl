@@ -1,16 +1,18 @@
-## Hi there 👋
+#👋 Hi, I am Payal
 
-<!--
-**Paayl/Paayl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Love to write clean and efficient code and build scalable web and desktop applications as a passionate **Full-Stack Developer**. 
 
-Here are some ideas to get you started:
+ --- ## 🚀 About me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🧠 **Currently learning:** Deep dive into **React.js** to level up my front-end game.
+* 💻 **Coding philosophy:** Strong believer of good Object Oriented Programming (**OOPs**) principles .
+* 🛠️ **Problem solver:** Enjoys connecting the dots between solid backends (Django) and slick user interfaces.
+
+ --- ### 🛠️ Tools & Tech Stack | Technologies Category | | | Languages | Python, JavaScript, HTML5, CSS3 | | Frameworks & Libs | Django, React.js (Basic) | | Databases & GUI | MySQL, Tkinter | | Tools & IDEs | VS Code, PyCharm, Git | |
+
+ --- ### 📈 Present Focus
+
+* 🔭 Developing full stack web apps with Django/Python.
+* 📊 Building optimized relational databases with MySQL.
+* 📫 **Contact me:** paayalk789@gmail.com
+
