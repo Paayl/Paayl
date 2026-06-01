@@ -1,18 +1,70 @@
-#👋 Hi, I am Payal
+# 👋 Hi, I'm Payal
 
-Love to write clean and efficient code and build scalable web and desktop applications as a passionate **Full-Stack Developer**. 
+💻 Passionate Full-Stack Developer and Computer Science Student from India.
 
- --- ## 🚀 About me
+I enjoy building responsive websites, learning new technologies, and solving real-world problems through code. I am continuously improving my skills in both front-end and back-end development while working on personal and academic projects.
 
-* 🧠 **Currently learning:** Deep dive into **React.js** to level up my front-end game.
-* 💻 **Coding philosophy:** Strong believer of good Object Oriented Programming (**OOPs**) principles .
-* 🛠️ **Problem solver:** Enjoys connecting the dots between solid backends (Django) and slick user interfaces.
+## 🚀 Tech Stack
 
- --- ### 🛠️ Tools & Tech Stack | Technologies Category | | | Languages | Python, JavaScript, HTML5, CSS3 | | Frameworks & Libs | Django, React.js (Basic) | | Databases & GUI | MySQL, Tkinter | | Tools & IDEs | VS Code, PyCharm, Git | |
+### 🌐 Frontend
+ - HTML5
+ - CSS3
+ - JavaScript
+ - React.js (Basic)
 
- --- ### 📈 Present Focus
+### ⚙️ Backend
+ - Python
+ - Django
 
-* 🔭 Developing full stack web apps with Django/Python.
-* 📊 Building optimized relational databases with MySQL.
-* 📫 **Contact me:** paayalk789@gmail.com
+### 🗄️ Database
+ - MySQL
 
+### 🧠 Programming Concepts
+ - Object-Oriented Programming (OOP)
+ - Data Structures & Problem Solving
+
+### 🖥️ GUI Development
+ - Tkinter
+
+### 🛠️ Tools & Technologies
+💡 VS Code  
+🐍 PyCharm  
+🔧 Git  
+📂 GitHub
+
+## 📂 Projects
+
+### 🌟 Portfolio Website
+- Personal portfolio built using HTML, CSS, and JavaScript
+- Responsive design for different screen sizes
+
+### 📚 SmartLearning Website
+- Educational website developed as a team project
+- Modern and responsive user interface
+
+### 📝 GUI Form Application
+- Built using Python, Tkinter, and MySQL
+- Demonstrates database connectivity and form handling
+
+### 🌱 Currently working
+
+⚛️ React.js  
+🚀 Advanced Django  
+💻 Full-Stack Development  
+🔍 Better Software Development Practices
+
+### 🎯 Goals
+
+ - Build impactful web applications
+ - Contribute to open-source projects
+ - Gain real-world development experience
+ - Continuously learn and improve as a developer
+
+### 📫 Connect With Me
+
+🔗 [LinkedIn](https://www.linkedin.com/in/payal-chauhan-336a8933a/)
+
+📧 [paayalk789@gmail.com](mailto:paayalk789@gmail.com)
+
+
+⭐ Thanks for visiting my profile!
